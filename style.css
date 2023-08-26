@@ -1,0 +1,5410 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #ffffff;
+  width: 1920px;
+  height: 12116px;
+  position: relative;
+  overflow: hidden;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.background {
+  position: absolute;
+  left: 0px;
+  top: 11082px;
+  overflow: visible;
+}
+.footer2 {
+  display: flex;
+  flex-direction: row;
+  gap: 99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1200px;
+  position: absolute;
+  left: 360px;
+  top: 11273px;
+}
+.subscribe-box {
+  background: #3c3c45;
+  border-radius: 7px;
+  padding: 49px 53px 49px 53px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 399px;
+  height: 462px;
+  position: relative;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 293px;
+  position: relative;
+}
+.logo {
+  flex-shrink: 0;
+  width: 257px;
+  height: 81.16px;
+  position: static;
+}
+.dza-joki {
+  color: #ffffff;
+  text-align: left;
+  font: 800 37px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 88px;
+  top: 12px;
+}
+.ellipse-1 {
+  background: #ffdc60;
+  border-radius: 50%;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 6.16px;
+  top: 75.16px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.ellipse-3 {
+  background: #5956e8;
+  border-radius: 50%;
+  width: 57.39px;
+  height: 57.39px;
+  position: absolute;
+  left: 81.16px;
+  top: 40.58px;
+  transform-origin: 0 0;
+  transform: rotate(135deg) scale(1, 1);
+}
+.content2 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 293px;
+  position: relative;
+}
+.title {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 288px;
+  position: relative;
+}
+.login-sekarang {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.button {
+  flex-shrink: 0;
+  width: 293px;
+  height: 62px;
+  position: static;
+}
+.background2 {
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 46px;
+  overflow: visible;
+}
+.enter-your-email {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 26px;
+  top: 62px;
+}
+.background3 {
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 126px;
+  overflow: visible;
+}
+.subscribe {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 141.58px;
+}
+.logo2 {
+  flex-shrink: 0;
+  width: 287px;
+  height: 202px;
+  position: relative;
+}
+.content3 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 702px;
+  position: relative;
+}
+.addresss {
+  display: flex;
+  flex-direction: row;
+  gap: 110px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 662px;
+  position: relative;
+}
+._1 {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 255px;
+  position: relative;
+}
+._12 {
+  flex-shrink: 0;
+  width: 198px;
+  height: 28px;
+  position: static;
+}
+.no-whats-app {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 27px;
+  top: 0px;
+}
+.vector {
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+.number {
+  flex-shrink: 0;
+  width: 255px;
+  height: 62px;
+  position: static;
+}
+.rectangle-14 {
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 45px;
+  overflow: visible;
+}
+._081998292588 {
+  color: #ffdc60;
+  text-align: left;
+  font: 700 25px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 32px;
+  top: 57px;
+}
+.dzakinaufal-1712-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+._2 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 297px;
+  position: relative;
+}
+.title2 {
+  flex-shrink: 0;
+  width: 120px;
+  height: 28px;
+  position: static;
+}
+.location {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 0px;
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  top: 3px;
+  overflow: visible;
+}
+.jonggol-lantai-7 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+.location2 {
+  color: #ffdc60;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  text-decoration: underline;
+  position: relative;
+}
+.line {
+  border-style: solid;
+  border-color: #727274;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 702px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.features {
+  display: flex;
+  flex-direction: row;
+  gap: 111px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 642px;
+  position: relative;
+}
+.pages {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 120px;
+  position: relative;
+}
+.title3 {
+  flex-shrink: 0;
+  width: 103px;
+  height: 30px;
+  position: static;
+}
+.pages2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 0px;
+}
+.icon2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.number2 {
+  flex-shrink: 0;
+  width: 120px;
+  height: 228px;
+  position: static;
+}
+.home-about-blog-pricing-single-contact-services {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/211.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+.uitility-pages {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 183px;
+  position: relative;
+}
+.title4 {
+  flex-shrink: 0;
+  width: 183px;
+  height: 28px;
+  position: static;
+}
+.uitility-pages2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 31px;
+  top: 0px;
+}
+.icon3 {
+  width: 28px;
+  height: 28px;
+  position: static;
+}
+.group-5 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.styleguide-404-not-found-password-protected-licenses-changelog {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/211.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+.follows {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 117px;
+  position: relative;
+}
+.title5 {
+  flex-shrink: 0;
+  width: 117px;
+  height: 28px;
+  position: static;
+}
+.follows2 {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 27px;
+  top: 0px;
+}
+.icon4 {
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  overflow: visible;
+}
+.facebook-twitter-instagram-linked-in {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/211.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+.copyrights {
+  flex-shrink: 0;
+  width: 702px;
+  height: 55px;
+  position: static;
+}
+.copyright-nextlevel-designed-by-dzaki-powered-by-dzaki {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/211.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 48px;
+  top: 607px;
+}
+.line2 {
+  border-style: solid;
+  border-color: #727274;
+  border-width: 1px 0 0 0;
+  width: 702px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 590px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.blog {
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1199.07px;
+  position: absolute;
+  left: 360px;
+  top: 9537px;
+}
+.blog2 {
+  flex-shrink: 0;
+  width: 1199.07px;
+  height: 1263.93px;
+  position: static;
+}
+._3 {
+  background: #e9f7ff;
+  border-radius: 10px;
+  padding: 85px 90px 85px 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 797px;
+}
+.content4 {
+  display: flex;
+  flex-direction: row;
+  gap: 96px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image {
+  flex-shrink: 0;
+  width: 453.07px;
+  height: 296.93px;
+  position: static;
+}
+.image2 {
+  width: 453.07px;
+  height: 296.93px;
+  position: static;
+}
+.background4 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 453.07px;
+  height: 296.93px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.photo {
+  width: 537px;
+  height: 358px;
+  position: absolute;
+  left: -41px;
+  top: -30.54px;
+}
+.content5 {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 470px;
+  position: relative;
+}
+.tag {
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 435px;
+  position: relative;
+}
+.tag2 {
+  flex-shrink: 0;
+  width: 123px;
+  height: 45px;
+  position: static;
+}
+.rectangle-142 {
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.sploit {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 23px;
+  top: 8px;
+}
+.september-1-2022 {
+  color: #292930;
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.title6 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 470px;
+  position: relative;
+}
+.metasploit {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 452px;
+}
+.metasploit-adalah-sebuah-tool-yang-digunakan-oleh-penetration-tester-untuk-melancarkan-serangan-terhadap-suatu-perangkat-atau-device-tertentu {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+  width: 470px;
+}
+.button2 {
+  background: #ffffff;
+  border-radius: 7px;
+  padding: 17px 24px 18px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.content6 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.read-more {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.vector15 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._13 {
+  background: #fff3ca;
+  border-radius: 10px;
+  padding: 85px 90px 85px 90px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 298px;
+}
+.rectangle-143 {
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._15-agustus-2023 {
+  color: #292930;
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+.xerosploit {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 452px;
+}
+.xerosploit-adalah-penetratration-testing-toolkit-yang-dirancang-untuk-melakukan-serangan-man-in-the-middle-untuk-menemukan-kerentanan-konten-berbahaya-bug-dan-risiko {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+  width: 470px;
+}
+.vector16 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+.background5 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 453.07px;
+  height: 296.93px;
+  position: absolute;
+  left: 566px;
+  top: 6.53px;
+}
+.photo2 {
+  width: 552px;
+  height: 368px;
+  position: absolute;
+  left: 516.53px;
+  top: -28.93px;
+}
+.heading {
+  width: 558px;
+  height: 203px;
+  position: static;
+}
+.text {
+  width: 558px;
+  height: 203px;
+  position: static;
+}
+.heading2 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 558px;
+  position: absolute;
+  left: 320px;
+  top: 0px;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 88px;
+  height: 88px;
+  position: static;
+}
+.ellipse-15 {
+  background: #93e1a4;
+  border-radius: 50%;
+  width: 88px;
+  height: 88px;
+  position: absolute;
+  left: 235px;
+  top: 0px;
+}
+.group-4 {
+  position: absolute;
+  left: 264px;
+  top: 29px;
+  overflow: visible;
+}
+.title7 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 558px;
+  position: relative;
+}
+._08-articles {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._08-articles-span {
+  color: #5956e8;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._08-articles-span2 {
+  color: #93e1a4;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._08-articles-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.browse-our-article {
+  color: #292930;
+  text-align: center;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.button3 {
+  background: #292930;
+  border-radius: 7px;
+  padding: 17px 35px 18px 35px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.more-articles {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.vector22 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+.benifits {
+  position: absolute;
+  inset: 0;
+}
+.line3 {
+  border-radius: 0px;
+  position: absolute;
+  left: 350.5px;
+  top: 8589px;
+  overflow: visible;
+}
+.content7 {
+  display: flex;
+  flex-direction: row;
+  gap: 17px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1199px;
+  position: absolute;
+  left: 361px;
+  top: 8739px;
+}
+.content8 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 612px;
+  position: relative;
+}
+.heading3 {
+  flex-shrink: 0;
+  width: 612px;
+  height: 129px;
+  position: static;
+}
+.title8 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 612px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.icon6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title9 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 485px;
+  position: relative;
+}
+._07-benifits {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._07-benifits-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._07-benifits-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._07-benifits-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.beberapa-keuntungan-yang-didapat-client {
+  color: #292930;
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 485px;
+  height: 91px;
+}
+.graphics {
+  flex-shrink: 0;
+  width: 567.14px;
+  height: 458.66px;
+  position: static;
+}
+.bg {
+  position: absolute;
+  left: 0px;
+  top: 163px;
+  overflow: visible;
+}
+._008-dashboard {
+  width: 422.14px;
+  height: 340.84px;
+  position: static;
+}
+.base {
+  width: 422.14px;
+  height: 340.84px;
+  position: static;
+}
+.base2 {
+  width: 422.14px;
+  height: 340.84px;
+  position: absolute;
+  left: 145px;
+  top: 234px;
+}
+.color-34 {
+  background: #5956e8;
+  width: 422.14px;
+  height: 340.84px;
+  position: absolute;
+  left: 145px;
+  top: 235px;
+}
+.screen {
+  width: 372.49px;
+  height: 226.82px;
+  position: static;
+}
+.screen2 {
+  width: 372.49px;
+  height: 226.82px;
+  position: absolute;
+  left: 169.98px;
+  top: 260.37px;
+}
+.color-35 {
+  background: #505054;
+  width: 372.49px;
+  height: 226.82px;
+  position: absolute;
+  left: 170px;
+  top: 257px;
+}
+.shape {
+  width: 72.3px;
+  height: 161.19px;
+  position: static;
+}
+.shape2 {
+  width: 72.3px;
+  height: 161.19px;
+  position: absolute;
+  left: 184.41px;
+  top: 304.59px;
+}
+.color-38 {
+  background: #f9654b;
+  width: 72.3px;
+  height: 161.19px;
+  position: absolute;
+  left: 184.41px;
+  top: 304.59px;
+}
+.shape3 {
+  width: 250.55px;
+  height: 161.19px;
+  position: static;
+}
+.shape4 {
+  width: 250.55px;
+  height: 161.19px;
+  position: absolute;
+  left: 278.11px;
+  top: 304.59px;
+}
+.color-36 {
+  background: #4fe5d2;
+  width: 250.55px;
+  height: 161.19px;
+  position: absolute;
+  left: 278px;
+  top: 303px;
+}
+.shape5 {
+  width: 199.05px;
+  height: 22.34px;
+  position: static;
+}
+.shape6 {
+  width: 199.05px;
+  height: 22.34px;
+  position: absolute;
+  left: 329.62px;
+  top: 272.32px;
+}
+.color-362 {
+  background: #ff65c1;
+  width: 199.05px;
+  height: 22.34px;
+  position: absolute;
+  left: 330px;
+  top: 274px;
+}
+.shape7 {
+  width: 57.56px;
+  height: 34.75px;
+  position: static;
+}
+.shape8 {
+  width: 57.56px;
+  height: 34.75px;
+  position: absolute;
+  left: 192.16px;
+  top: 404.34px;
+}
+.color-37 {
+  background: #d4b442;
+  width: 57.56px;
+  height: 34.75px;
+  position: absolute;
+  left: 192.16px;
+  top: 404.34px;
+}
+.shape9 {
+  width: 90.29px;
+  height: 74.62px;
+  position: static;
+}
+.shape10 {
+  width: 90.29px;
+  height: 74.62px;
+  position: absolute;
+  left: 414.94px;
+  top: 348.49px;
+}
+.color-382 {
+  background: #f9654b;
+  width: 90.29px;
+  height: 74.62px;
+  position: absolute;
+  left: 413.94px;
+  top: 297.49px;
+}
+.circle {
+  width: 104.56px;
+  height: 104.41px;
+  position: static;
+}
+.circle2 {
+  width: 104.56px;
+  height: 104.41px;
+  position: absolute;
+  left: 295.18px;
+  top: 334.38px;
+}
+.color-342 {
+  background: #5956e8;
+  width: 104.56px;
+  height: 104.41px;
+  position: absolute;
+  left: 295.18px;
+  top: 334.38px;
+}
+.circle3 {
+  width: 52.28px;
+  height: 52.28px;
+  position: static;
+}
+.circle4 {
+  width: 52.28px;
+  height: 52.28px;
+  position: absolute;
+  left: 347.46px;
+  top: 334.38px;
+}
+.color-372 {
+  background: #d4b442;
+  width: 52.28px;
+  height: 52.28px;
+  position: absolute;
+  left: 347.46px;
+  top: 334.38px;
+}
+.circle5 {
+  width: 11.64px;
+  height: 11.64px;
+  position: static;
+}
+.circle6 {
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 188.9px;
+  top: 273.56px;
+}
+.color-383 {
+  background: #f9654b;
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 188.9px;
+  top: 273.56px;
+}
+.circle7 {
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 205.04px;
+  top: 273.56px;
+}
+.color-373 {
+  background: #d4b442;
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 205.04px;
+  top: 273.56px;
+}
+.circle8 {
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 221.17px;
+  top: 273.56px;
+}
+.color-363 {
+  background: #4fe5d2;
+  width: 11.64px;
+  height: 11.64px;
+  position: absolute;
+  left: 221.17px;
+  top: 273.56px;
+}
+.human {
+  width: 43.28px;
+  height: 64.38px;
+  position: static;
+}
+.human2 {
+  width: 43.28px;
+  height: 64.38px;
+  position: absolute;
+  left: 199.61px;
+  top: 316.38px;
+}
+.color-364 {
+  background: #4fe5d2;
+  width: 43.28px;
+  height: 64.38px;
+  position: absolute;
+  left: 199.61px;
+  top: 316.38px;
+}
+.head {
+  width: 31.8px;
+  height: 34.29px;
+  position: static;
+}
+.head2 {
+  width: 31.8px;
+  height: 34.29px;
+  position: absolute;
+  left: 205.35px;
+  top: 316.38px;
+}
+.color-374 {
+  background: #d4b442;
+  width: 31.8px;
+  height: 34.29px;
+  position: absolute;
+  left: 205.35px;
+  top: 316.38px;
+}
+.points {
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 570px;
+  position: relative;
+}
+._14 {
+  flex-shrink: 0;
+  width: 741px;
+  height: 123px;
+  position: static;
+}
+.text2 {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 104px;
+  top: 65px;
+  width: 430px;
+  height: 58px;
+}
+.icon7 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.penjelasan-bagaimana-web-aplikasi-yang-dipesan-berjalan-seperti-alur-codenya {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 7px;
+  width: 638px;
+  height: 79px;
+}
+._22 {
+  flex-shrink: 0;
+  width: 584px;
+  height: 86px;
+  position: static;
+}
+.icon8 {
+  position: absolute;
+  left: 0px;
+  top: 170px;
+  overflow: visible;
+}
+.web-aplikasi-aman-dari-serangan-hacker {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 177px;
+}
+._32 {
+  flex-shrink: 0;
+  width: 150px;
+  height: 86px;
+  position: static;
+}
+.icon9 {
+  position: absolute;
+  left: 0px;
+  top: 303px;
+  overflow: visible;
+}
+.dll {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 324px;
+}
+.pricing {
+  position: absolute;
+  inset: 0;
+}
+._5 {
+  background: #f6f6f6;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e2e2e2;
+  border-width: 1px;
+  padding: 45px 38px 45px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 389px;
+  position: absolute;
+  left: 1171px;
+  top: 7939px;
+}
+.content9 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 313px;
+  position: relative;
+}
+.price {
+  flex-shrink: 0;
+  width: 345px;
+  height: 104px;
+  position: static;
+}
+.img {
+  width: 48.98px;
+  height: 49px;
+  position: static;
+}
+.mask-group {
+  width: 48.98px;
+  height: 49px;
+  position: static;
+}
+.coin {
+  width: 48.98px;
+  height: 49px;
+  position: static;
+}
+.coin2 {
+  width: 48.98px;
+  height: 49px;
+  position: absolute;
+  left: 0px;
+  top: 55px;
+}
+.color-68 {
+  background: #ffb443;
+  width: 48.98px;
+  height: 49px;
+  position: absolute;
+  left: 0px;
+  top: 55px;
+}
+.dollar {
+  width: 21.56px;
+  height: 37.74px;
+  position: static;
+}
+.dollar2 {
+  width: 21.56px;
+  height: 37.74px;
+  position: absolute;
+  left: 13.69px;
+  top: 60.62px;
+}
+.color-69 {
+  background: #f9654b;
+  width: 21.56px;
+  height: 37.74px;
+  position: absolute;
+  left: 13.69px;
+  top: 60.62px;
+}
+.rp-350000 {
+  color: #292930;
+  text-align: left;
+  font: 900 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 68px;
+  top: 61px;
+  width: 256px;
+  height: 37px;
+}
+.pembuatan-keamanan-web-aplikasi {
+  color: #292930;
+  text-align: left;
+  font: 700 20px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 22px;
+  top: 0px;
+  width: 323px;
+}
+.line4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.points2 {
+  flex-shrink: 0;
+  width: 249px;
+  height: 216px;
+  position: static;
+}
+.firewall-anti-ddos-ssl-tls-authentication-authorization {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/244% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 25px;
+  top: 164px;
+  width: 224px;
+  height: 216px;
+}
+.vector27 {
+  position: absolute;
+  left: 0px;
+  top: 178px;
+  overflow: visible;
+}
+.vector28 {
+  position: absolute;
+  left: 0px;
+  top: 219px;
+  overflow: visible;
+}
+.vector29 {
+  position: absolute;
+  left: 0px;
+  top: 263px;
+  overflow: visible;
+}
+.vector30 {
+  position: absolute;
+  left: 0px;
+  top: 310px;
+  overflow: visible;
+}
+.button4 {
+  background: #292930;
+  border-radius: 7px;
+  padding: 17px 98px 18px 98px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.purchase-plan {
+  color: #ffffff;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+._23 {
+  width: 389px;
+  height: 554px;
+  position: static;
+}
+._4 {
+  background: #292930;
+  border-radius: 10px;
+  padding: 45px 38px 45px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 389px;
+  position: absolute;
+  left: 766px;
+  top: 7939px;
+}
+.price2 {
+  flex-shrink: 0;
+  width: 320px;
+  height: 97px;
+  position: static;
+}
+.rp-250000 {
+  color: #ffffff;
+  text-align: center;
+  font: 900 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 7px;
+  top: 62px;
+  width: 236px;
+  height: 35px;
+}
+.pembuatan-web-aplikasi {
+  color: #ffffff;
+  text-align: center;
+  font: 700 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.line5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.points3 {
+  flex-shrink: 0;
+  width: 249px;
+  height: 213px;
+  position: static;
+}
+.html-css-js-database-api-dll {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px/244% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 25px;
+  top: 157px;
+  width: 224px;
+  height: 213px;
+}
+.vector31 {
+  position: absolute;
+  left: 0px;
+  top: 170.81px;
+  overflow: visible;
+}
+.vector32 {
+  position: absolute;
+  left: 0px;
+  top: 211.24px;
+  overflow: visible;
+}
+.vector33 {
+  position: absolute;
+  left: 0px;
+  top: 254.62px;
+  overflow: visible;
+}
+.vector34 {
+  position: absolute;
+  left: 0px;
+  top: 300.97px;
+  overflow: visible;
+}
+.button5 {
+  background: #f6f6f6;
+  border-radius: 7px;
+  padding: 17px 98px 18px 98px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.purchase-plan2 {
+  color: #292930;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.popular {
+  width: 89px;
+  height: 40px;
+  position: static;
+}
+.rectangle-1087 {
+  background: #ffdc60;
+  border-radius: 9px;
+  width: 89px;
+  height: 40px;
+  position: absolute;
+  left: 1061px;
+  top: 7944px;
+}
+.popular2 {
+  color: #292930;
+  text-align: center;
+  font: 500 15px/244% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 1071px;
+  top: 7946px;
+}
+._15 {
+  background: #f6f6f6;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e2e2e2;
+  border-width: 1px;
+  padding: 45px 38px 45px 38px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 389px;
+  height: 361px;
+  position: absolute;
+  left: 360px;
+  top: 7939px;
+}
+.content10 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.price3 {
+  flex-shrink: 0;
+  width: 256px;
+  height: 82px;
+  position: static;
+}
+.tugas-program {
+  color: #292930;
+  text-align: center;
+  font: 700 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 15.14px;
+  top: 0px;
+}
+.rp-50000 {
+  color: #292930;
+  text-align: left;
+  font: 900 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 28px;
+  width: 256px;
+  height: 54px;
+}
+.line6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.points4 {
+  flex-shrink: 0;
+  width: 249px;
+  height: 51px;
+  position: static;
+}
+.semua-bahasa-program {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/244% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 25px;
+  top: 142px;
+  width: 224px;
+  height: 51px;
+}
+.vector35 {
+  position: absolute;
+  left: 0px;
+  top: 156px;
+  overflow: visible;
+}
+.heading4 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 473px;
+  position: absolute;
+  left: 724px;
+  top: 7695px;
+}
+.icon10 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title10 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 473px;
+  position: relative;
+}
+._06-price-plan {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._06-price-plan-span {
+  color: #5956e8;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._06-price-plan-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._06-price-plan-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.our-flexible-pricing-plans {
+  color: #292930;
+  text-align: center;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.project-and-cpunters {
+  position: absolute;
+  inset: 0;
+}
+.background6 {
+  position: absolute;
+  left: 0px;
+  top: 6133px;
+  overflow: visible;
+}
+.project {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1202px;
+  position: absolute;
+  left: 360px;
+  top: 6294px;
+}
+.heading5 {
+  flex-shrink: 0;
+  width: 1200px;
+  height: 170px;
+  position: static;
+}
+.btn {
+  width: 205px;
+  height: 62px;
+  position: static;
+}
+.rectangle-144 {
+  border-radius: 0px;
+  position: absolute;
+  left: 995px;
+  top: 56px;
+  overflow: visible;
+}
+.more-cacestudys {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 1015px;
+  top: 71px;
+}
+.vector37 {
+  position: absolute;
+  left: 1162px;
+  top: 94px;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._1520-project-done-browse-our-latest-case-study {
+  color: #ffffff;
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 38px;
+  width: 718px;
+  height: 132px;
+}
+._05-case-studies {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 127px;
+  top: 0px;
+}
+._05-case-studies-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._05-case-studies-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._05-case-studies-span3 {
+  color: #d0d0d0;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.icon11 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.content11 {
+  display: flex;
+  flex-direction: row;
+  gap: 27px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+.content12 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 559px;
+  position: relative;
+}
+._16 {
+  background: #383840;
+  border-radius: 10px;
+  opacity: 0.5;
+  padding: 42px 44px 42px 44px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.content13 {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.online-media-management {
+  color: #ffffff;
+  text-align: left;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.pattern {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._24 {
+  background: #383840;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #5e5e62;
+  border-width: 1px;
+  padding: 41px 49px 41px 49px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 558px;
+  position: relative;
+  box-shadow: 0px 18px 50px 0px rgba(0, 0, 0, 0.25);
+}
+.content14 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 460px;
+  position: relative;
+}
+.title11 {
+  display: flex;
+  flex-direction: row;
+  gap: 104px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 460px;
+  position: relative;
+}
+.title12 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 310px;
+  position: relative;
+}
+.branding-marketing {
+  color: #ffdc60;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+.experiential-marketing {
+  color: #ffffff;
+  text-align: left;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.button6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._33 {
+  background: #383840;
+  border-radius: 10px;
+  opacity: 0.5;
+  padding: 42px 44px 42px 44px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.content15 {
+  display: flex;
+  flex-direction: row;
+  gap: 202px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.email-marketing {
+  color: #ffffff;
+  text-align: left;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.pattern2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.image3 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.projects {
+  flex-shrink: 0;
+  width: 1202px;
+  height: 114px;
+  position: static;
+}
+.content16 {
+  display: flex;
+  flex-direction: row;
+  gap: 122px;
+  align-items: center;
+  justify-content: center;
+  width: 1202px;
+  position: absolute;
+  left: 0px;
+  top: 984px;
+}
+._17 {
+  flex-shrink: 0;
+  width: 227px;
+  height: 46px;
+  position: static;
+}
+._325 {
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 171.5px;
+  top: 0px;
+}
+._325-span {
+  color: #ffffff;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+._325-span2 {
+  color: #5956e8;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+.clients-worldwide {
+  color: #d0d0d0;
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 288.5px;
+  top: 0px;
+}
+._25 {
+  flex-shrink: 0;
+  width: 216px;
+  height: 46px;
+  position: static;
+}
+._975 {
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 520.5px;
+  top: 1px;
+}
+._975-span {
+  color: #ffffff;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+._975-span2 {
+  color: #ff1850;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+.projects-completed {
+  color: #d0d0d0;
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 631.5px;
+  top: 0px;
+}
+._34 {
+  flex-shrink: 0;
+  width: 172px;
+  height: 46px;
+  position: static;
+}
+._70 {
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 858.5px;
+  top: 1px;
+}
+._70-span {
+  color: #ffffff;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+._70-span2 {
+  color: #ffdc60;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+}
+.team-members {
+  color: #d0d0d0;
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 946.5px;
+  top: 0px;
+}
+.line7 {
+  border-style: solid;
+  border-color: #5d5d63;
+  border-width: 1px 0 0 0;
+  width: 1200px;
+  height: 0px;
+  position: absolute;
+  left: 0px;
+  top: 916px;
+}
+.testimonial {
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1199px;
+  position: absolute;
+  left: 361px;
+  top: 5366px;
+}
+.heading6 {
+  display: flex;
+  flex-direction: row;
+  gap: 428px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1199px;
+  position: relative;
+}
+.title13 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 612px;
+  position: relative;
+}
+.icon12 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._04-testimonial {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._04-testimonial-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._04-testimonial-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._04-testimonial-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.beberapa-testimoni-dza-joki {
+  color: #292930;
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 485px;
+  height: 91px;
+}
+.navigation {
+  flex-shrink: 0;
+  width: 159px;
+  height: 70px;
+  position: static;
+}
+. {
+  position: absolute;
+  left: 1129px;
+  top: 59px;
+  overflow: visible;
+}
+.2 {
+  position: absolute;
+  left: 1040px;
+  top: 59px;
+  overflow: visible;
+}
+.testimonial2 {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1198px;
+  position: relative;
+}
+._18 {
+  background: linear-gradient(
+    151.16deg,
+    rgba(255, 248, 248, 1) 0%,
+    rgba(245, 247, 255, 1) 100%
+  );
+  border-radius: 7px;
+  padding: 32px 26px 32px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.content17 {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 534px;
+  position: relative;
+}
+.content18 {
+  background: #ffffff;
+  border-radius: 7px;
+  padding: 48px 37px 48px 37px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 534px;
+  position: relative;
+  box-shadow: 0px 2px 4px 0px rgba(146, 146, 146, 0.25);
+}
+.content19 {
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 460px;
+  position: relative;
+}
+.company {
+  display: flex;
+  flex-direction: row;
+  gap: 135px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 452.83px;
+  position: relative;
+}
+.company2 {
+  flex-shrink: 0;
+  width: 159px;
+  height: 39px;
+  position: static;
+}
+.company3 {
+  color: #292930;
+  text-align: left;
+  font: 700 25px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 0px;
+}
+.rectangle-1076 {
+  background: #5956e8;
+  border-radius: 26px;
+  width: 32.91px;
+  height: 8.85px;
+  position: absolute;
+  left: 19.69px;
+  top: 2.35px;
+  transform-origin: 0 0;
+  transform: rotate(60deg) scale(1, 1);
+}
+.rectangle-1078 {
+  background: #474747;
+  border-radius: 26px;
+  width: 32.91px;
+  height: 8.85px;
+  position: absolute;
+  left: 16.46px;
+  top: 2px;
+  transform-origin: 0 0;
+  transform: rotate(60deg) scale(-1, 1);
+}
+.rectangle-1077 {
+  background: #ff60c9;
+  border-radius: 26px;
+  width: 34px;
+  height: 9px;
+  position: absolute;
+  left: 1px;
+  top: 25px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.star {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.line8 {
+  border-style: solid;
+  border-color: #ececec;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 451px;
+  height: 0px;
+  position: relative;
+}
+.content20 {
+  flex-shrink: 0;
+  width: 460px;
+  height: 82px;
+  position: static;
+}
+.wah-pengerjaannya-sangat-cepat-dan-hasilnya-sesuai-dengan-yang-dipesan-the-best-lah {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 77px;
+  width: 460px;
+}
+.image4 {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 343px;
+  top: 137px;
+}
+.user {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 290px;
+  position: relative;
+}
+.image5 {
+  flex-shrink: 0;
+  width: 57px;
+  height: 57px;
+  position: static;
+}
+.background11 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.photo4 {
+  width: 86px;
+  height: 129px;
+  position: absolute;
+  left: -19px;
+  top: -11px;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 220px;
+  position: relative;
+}
+.john-carter {
+  color: #292930;
+  text-align: left;
+  font: 700 20px/156.5% "Nunito", sans-serif;
+  position: relative;
+}
+.marketing-lead-at-google {
+  margin: -6px 0 0 0;
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+._26 {
+  background: linear-gradient(
+    151.16deg,
+    rgba(255, 248, 248, 1) 0%,
+    rgba(245, 247, 255, 1) 100%
+  );
+  border-radius: 7px;
+  padding: 32px 26px 32px 26px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.company4 {
+  display: flex;
+  flex-direction: row;
+  gap: 114px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 452.83px;
+  position: relative;
+}
+.company5 {
+  flex-shrink: 0;
+  width: 183px;
+  height: 42px;
+  position: static;
+}
+.company6 {
+  color: #292930;
+  text-align: left;
+  font: 700 25px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 65px;
+  top: 0px;
+}
+.ellipse-281 {
+  background: #6fdb5d;
+  border-radius: 50%;
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  left: 0px;
+  top: 5px;
+}
+.polygon-17 {
+  border-radius: 0px;
+  position: absolute;
+  left: 26px;
+  top: 5px;
+  overflow: visible;
+}
+.star2 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.udah-murah-open-24-jam-cepat-lagi-pengerjaannya-dza-joki-benar-benar-mantap {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 80px;
+  width: 460px;
+}
+.image6 {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 343px;
+  top: 140px;
+}
+.photo5 {
+  width: 91px;
+  height: 137px;
+  position: absolute;
+  left: -21px;
+  top: -3px;
+}
+.peeter-pawl {
+  color: #292930;
+  text-align: left;
+  font: 700 20px/156.5% "Nunito", sans-serif;
+  position: relative;
+}
+.designer {
+  margin: -6px 0 0 0;
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+}
+.proccess {
+  position: absolute;
+  inset: 0;
+}
+.background12 {
+  border-radius: 0px;
+  position: absolute;
+  left: 360px;
+  top: 3742px;
+  overflow: visible;
+}
+.content21 {
+  display: flex;
+  flex-direction: column;
+  gap: 63px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1199px;
+  position: absolute;
+  left: 360px;
+  top: 3879px;
+}
+.heading7 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 525px;
+  position: relative;
+}
+.icon13 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title14 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 525px;
+  position: relative;
+}
+._03-proccess {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._03-proccess-span {
+  color: #5956e8;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._03-proccess-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._03-proccess-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.proses {
+  color: #292930;
+  text-align: center;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 525px;
+  height: 91px;
+}
+.content22 {
+  flex-shrink: 0;
+  width: 1199px;
+  height: 857px;
+  position: relative;
+}
+.content23 {
+  position: absolute;
+  inset: 0;
+}
+.line9 {
+  border-style: dashed;
+  border-color: #e38676;
+  border-width: 1.5px 0 0 0;
+  width: 696px;
+  height: 0px;
+  position: absolute;
+  left: 592px;
+  top: 68px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+._35 {
+  width: 877px;
+  height: 297.96px;
+  position: static;
+}
+.text3 {
+  width: 332px;
+  height: 99px;
+  position: static;
+}
+.tim-dza-joki-menyerahkan-hasil-pesanan-client {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 661px;
+  top: 727px;
+  width: 332px;
+  height: 58px;
+}
+.penyerahaan {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 661px;
+  top: 686px;
+}
+._19 {
+  width: 86px;
+  height: 86px;
+  position: static;
+}
+.ellipse-164 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffd1c8;
+  border-width: 9px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 549px;
+  top: 687px;
+}
+._36 {
+  color: #292930;
+  text-align: center;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 582px;
+  top: 714px;
+}
+.graphics2 {
+  width: 404.36px;
+  height: 297.96px;
+  position: static;
+}
+._52 {
+  width: 179.7px;
+  height: 136.46px;
+  position: static;
+}
+.rectangle-1071 {
+  background: linear-gradient(
+    -83.52deg,
+    rgba(244, 244, 244, 0.93) 0%,
+    rgba(244, 244, 244, 0.93) 42.1875%,
+    rgba(255, 255, 255, 0.93) 100%
+  );
+  border-radius: 13.69px;
+  width: 160.38px;
+  height: 83.45px;
+  position: absolute;
+  left: 145.32px;
+  top: 613.43px;
+  box-shadow: inset -1.03px 1.03px 0px 0px rgba(255, 255, 255, 1);
+  transform-origin: 0 0;
+  transform: rotate(0.757deg) scale(1, 1);
+}
+.vector51 {
+  position: absolute;
+  left: 156.82px;
+  top: 626.96px;
+  transform: translate(-0.43px, 0.08px);
+  overflow: visible;
+}
+.marketing-strategy {
+  color: #353e6c;
+  text-align: left;
+  font: 600 7.27px "Jost", sans-serif;
+  position: absolute;
+  left: 157.23px;
+  top: 625.77px;
+  transform-origin: 0 0;
+  transform: rotate(1.318deg) scale(1, 1);
+}
+._152 {
+  color: #45b751;
+  text-align: left;
+  font: 600 7.27px "Jost", sans-serif;
+  position: absolute;
+  left: 272.69px;
+  top: 628.97px;
+  width: 19.2px;
+  height: 9.01px;
+  transform-origin: 0 0;
+  transform: rotate(1.318deg) scale(1, 1);
+}
+.polygon-16 {
+  position: absolute;
+  left: 288.79px;
+  top: 632.22px;
+  transform: translate(0.36px, 0px);
+  overflow: visible;
+}
+.vector-239 {
+  position: absolute;
+  left: 156.13px;
+  top: 654.59px;
+  transform: translate(-0.4px, 0.51px);
+  overflow: visible;
+}
+.vector-238 {
+  position: absolute;
+  left: 156.13px;
+  top: 654.59px;
+  transform: translate(-0.41px, 0.15px);
+  overflow: visible;
+}
+.vector-240 {
+  border-radius: 0px;
+  position: absolute;
+  left: 156.53px;
+  top: 643.46px;
+  transform: translate(-0.62px, 0.53px);
+  overflow: visible;
+}
+.vector-241 {
+  position: absolute;
+  left: 156.66px;
+  top: 643.47px;
+  transform: translate(-0.88px, 0.17px);
+  overflow: visible;
+}
+._37 {
+  width: 145.44px;
+  height: 108.31px;
+  position: static;
+}
+._42 {
+  width: 144.62px;
+  height: 107.2px;
+  position: static;
+}
+.rectangle-10712 {
+  background: linear-gradient(
+    -83.52deg,
+    rgba(244, 244, 244, 0.93) 0%,
+    rgba(244, 244, 244, 0.93) 42.1875%,
+    rgba(255, 255, 255, 0.93) 100%
+  );
+  border-radius: 13.69px;
+  width: 130.38px;
+  height: 63.83px;
+  position: absolute;
+  left: 318.21px;
+  top: 630.05px;
+  box-shadow: inset -1.03px 1.03px 0px 0px rgba(255, 255, 255, 1);
+  transform-origin: 0 0;
+  transform: rotate(0.317deg) scale(1, 1);
+}
+.grow {
+  color: #303030;
+  text-align: left;
+  font: 600 18.47px/133.2% "Jost", sans-serif;
+  position: absolute;
+  left: 370.18px;
+  top: 644.8px;
+  width: 72.48px;
+  height: 20.93px;
+  transform-origin: 0 0;
+  transform: rotate(1.409deg) scale(1, 1);
+}
+.marketing-traffic {
+  color: #303030;
+  text-align: left;
+  font: 600 8.44px/133.2% "Jost", sans-serif;
+  position: absolute;
+  left: 370.44px;
+  top: 664.71px;
+  transform-origin: 0 0;
+  transform: rotate(1.409deg) scale(1, 1);
+}
+.ellipse-274 {
+  background: #cfddff;
+  border-radius: 50%;
+  width: 35.38px;
+  height: 35.46px;
+  position: absolute;
+  left: 336.17px;
+  top: 639.41px;
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+.ellipse-275 {
+  background: #2562ff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #cad9ff;
+  border-width: 0.53px;
+  width: 18.36px;
+  height: 18.4px;
+  position: absolute;
+  left: 340.92px;
+  top: 650.48px;
+  box-shadow: 1.58px 3.69px 3.17px 0px rgba(169, 183, 220, 1);
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+.vector52 {
+  position: absolute;
+  left: 220.22px;
+  top: 707px;
+  transform: translate(-0.18px, 0px);
+  overflow: visible;
+}
+.vector-242 {
+  position: absolute;
+  left: 242px;
+  top: 752px;
+  overflow: visible;
+}
+.ellipse-276 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3dacb7;
+  border-width: 4px;
+  width: 24.2px;
+  height: 24.25px;
+  position: absolute;
+  left: 384.98px;
+  top: 756px;
+  box-shadow: 1.79px 4.18px 3.58px 0px rgba(223, 186, 180, 1);
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+.ellipse-279 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3d95cf;
+  border-width: 4px;
+  width: 24.2px;
+  height: 24.25px;
+  position: absolute;
+  left: 326.98px;
+  top: 802px;
+  box-shadow: 1.79px 4.18px 3.58px 0px rgba(223, 186, 180, 1);
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+.ellipse-278 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3dc39e;
+  border-width: 4px;
+  width: 24.2px;
+  height: 24.25px;
+  position: absolute;
+  left: 429.98px;
+  top: 802px;
+  box-shadow: 1.79px 4.18px 3.58px 0px rgba(223, 186, 180, 1);
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+.ellipse-277 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3c88dc;
+  border-width: 4px;
+  width: 24.16px;
+  height: 24.21px;
+  position: absolute;
+  left: 300.96px;
+  top: 771px;
+  box-shadow: 1.79px 4.18px 3.58px 0px rgba(223, 186, 180, 1);
+  transform-origin: 0 0;
+  transform: rotate(21.733deg) scale(1, 1);
+}
+._27 {
+  width: 780px;
+  height: 263px;
+  position: static;
+}
+.tim-profesional-dza-joki-mengerjakan-pesanan-client {
+  color: #555555;
+  text-align: right;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 170px;
+  top: 392px;
+  width: 332px;
+  height: 58px;
+}
+.pengerjaan {
+  color: #292930;
+  text-align: right;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 338px;
+  top: 351px;
+}
+.ellipse-165 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffd1c8;
+  border-width: 9px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 547px;
+  top: 365px;
+}
+._28 {
+  color: #292930;
+  text-align: center;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 580px;
+  top: 392px;
+}
+.graphics3 {
+  width: 287px;
+  height: 263px;
+  position: static;
+}
+._01 {
+  position: absolute;
+  left: 664px;
+  top: 411px;
+  overflow: visible;
+}
+._38 {
+  position: absolute;
+  left: 663px;
+  top: 319px;
+  overflow: visible;
+}
+._29 {
+  position: absolute;
+  left: 700px;
+  top: 503px;
+  overflow: visible;
+}
+._110 {
+  width: 781.07px;
+  height: 179.13px;
+  position: static;
+}
+.graphics4 {
+  width: 292.36px;
+  height: 179.13px;
+  position: static;
+}
+.icon14 {
+  width: 292.36px;
+  height: 179.13px;
+  position: static;
+}
+.dashboard {
+  width: 292.36px;
+  height: 179.13px;
+  position: static;
+}
+.rectangle-137 {
+  background: #cdd5ea;
+  border-radius: 8.79px;
+  width: 292.36px;
+  height: 142.52px;
+  position: absolute;
+  left: 215.93px;
+  top: 0px;
+}
+.rectangle-136 {
+  background: #ffffff;
+  border-radius: 8.79px;
+  width: 265.03px;
+  height: 152.28px;
+  position: absolute;
+  left: 229.59px;
+  top: 26.84px;
+  box-shadow: -7.81px 10.25px 23.43px 0px rgba(240, 230, 229, 0.25);
+}
+.rectangle-1422 {
+  background: #ffffff;
+  border-radius: 5.37px;
+  width: 61.01px;
+  height: 4.39px;
+  position: absolute;
+  left: 422.87px;
+  top: 12.69px;
+}
+.rectangle-157 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 93.71px;
+  height: 5.37px;
+  position: absolute;
+  left: 260.34px;
+  top: 67.35px;
+}
+.rectangle-161 {
+  background: #353535;
+  border-radius: 10.74px;
+  width: 38.56px;
+  height: 5.86px;
+  position: absolute;
+  left: 428.73px;
+  top: 69.31px;
+}
+.rectangle-160 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 93.71px;
+  height: 5.86px;
+  position: absolute;
+  left: 260.34px;
+  top: 58.08px;
+}
+.rectangle-162 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 38.56px;
+  height: 5.86px;
+  position: absolute;
+  left: 428.73px;
+  top: 58.08px;
+}
+.rectangle-158 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 93.71px;
+  height: 5.86px;
+  position: absolute;
+  left: 260.34px;
+  top: 76.14px;
+}
+.rectangle-163 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 38.56px;
+  height: 5.86px;
+  position: absolute;
+  left: 428.73px;
+  top: 81.02px;
+}
+.rectangle-159 {
+  background: #292929;
+  border-radius: 10.74px;
+  width: 53.2px;
+  height: 5.37px;
+  position: absolute;
+  left: 260.34px;
+  top: 85.41px;
+}
+.rectangle-164 {
+  background: #e7e7e7;
+  border-radius: 10.74px;
+  width: 21.96px;
+  height: 5.86px;
+  position: absolute;
+  left: 428.73px;
+  top: 92.74px;
+}
+.ellipse-9 {
+  background: #fe5151;
+  border-radius: 50%;
+  width: 8.79px;
+  height: 8.79px;
+  position: absolute;
+  left: 230.57px;
+  top: 10.74px;
+}
+.ellipse-10 {
+  background: #ffac2f;
+  border-radius: 50%;
+  width: 8.79px;
+  height: 8.79px;
+  position: absolute;
+  left: 242.77px;
+  top: 10.74px;
+}
+.ellipse-11 {
+  background: #3fd28c;
+  border-radius: 50%;
+  width: 8.79px;
+  height: 8.79px;
+  position: absolute;
+  left: 254.97px;
+  top: 10.74px;
+}
+.password {
+  width: 103.35px;
+  height: 61.53px;
+  position: static;
+}
+.bg-line {
+  position: absolute;
+  left: 385.06px;
+  top: 95.13px;
+  overflow: visible;
+}
+.vector-3 {
+  border-radius: 0px;
+  position: absolute;
+  left: 383.85px;
+  top: 100.84px;
+  overflow: visible;
+}
+.vector-42 {
+  position: absolute;
+  left: 377.45px;
+  top: 91px;
+  overflow: visible;
+}
+.ellipse-69 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 20.01px;
+  height: 20.01px;
+  position: absolute;
+  left: 403.37px;
+  top: 110.6px;
+}
+.ellipse-70 {
+  background: #5c5ce9;
+  border-radius: 50%;
+  width: 13.18px;
+  height: 13.67px;
+  position: absolute;
+  left: 406.79px;
+  top: 114.02px;
+}
+.like {
+  width: 94px;
+  height: 31.92px;
+  position: static;
+}
+.chart {
+  width: 94px;
+  height: 31.92px;
+  position: static;
+}
+.rectangle-16 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 346.92px;
+  top: 119px;
+}
+.rectangle-11 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 17.79px;
+  position: absolute;
+  left: 346.92px;
+  top: 133.13px;
+}
+.rectangle-15 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 332.44px;
+  top: 119px;
+}
+.rectangle-10 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 10.46px;
+  position: absolute;
+  left: 332.44px;
+  top: 140.45px;
+}
+.rectangle-145 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 317.95px;
+  top: 119px;
+}
+.rectangle-9 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 24.59px;
+  position: absolute;
+  left: 317.95px;
+  top: 126.33px;
+}
+.rectangle-13 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 303.46px;
+  top: 119px;
+}
+.rectangle-8 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 21.45px;
+  position: absolute;
+  left: 303.46px;
+  top: 129.46px;
+}
+.rectangle-18 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 288.97px;
+  top: 119px;
+}
+.rectangle-7 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 17.79px;
+  position: absolute;
+  left: 288.97px;
+  top: 133.13px;
+}
+.rectangle-6 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 274.49px;
+  top: 119px;
+}
+.rectangle-17 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 26.16px;
+  position: absolute;
+  left: 274.49px;
+  top: 124.76px;
+}
+.rectangle-12 {
+  background: #eeeeee;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 31.92px;
+  position: absolute;
+  left: 260px;
+  top: 119px;
+}
+.rectangle-5 {
+  background: #5c5ce9;
+  border-radius: 9.76px;
+  width: 7.08px;
+  height: 13.08px;
+  position: absolute;
+  left: 260px;
+  top: 137.84px;
+}
+.text4 {
+  width: 334px;
+  height: 99px;
+  position: static;
+}
+.client-memmesan-jasa-lalu-membayar {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: absolute;
+  left: 663px;
+  top: 72px;
+  width: 332px;
+  height: 58px;
+}
+.memesan-dan-membayar {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 663px;
+  top: 31px;
+}
+.ellipse-166 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffd1c8;
+  border-width: 9px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 551px;
+  top: 32px;
+}
+._111 {
+  color: #292930;
+  text-align: center;
+  font: 600 30px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 584px;
+  top: 59px;
+}
+.about {
+  display: flex;
+  flex-direction: row;
+  gap: 33px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1200px;
+  position: absolute;
+  left: 370px;
+  top: 2891px;
+}
+.image7 {
+  flex-shrink: 0;
+  width: 514px;
+  height: 851px;
+  position: relative;
+}
+.image8 {
+  width: 676.18px;
+  height: 851.49px;
+  position: absolute;
+  left: -162.18px;
+  top: 0px;
+}
+.image9 {
+  position: absolute;
+  inset: 0;
+}
+.pattern3 {
+  position: absolute;
+  left: 676.18px;
+  top: 278.99px;
+  transform: translate(-715px, -331px);
+  overflow: visible;
+}
+.pattern4 {
+  border-radius: 0px;
+  position: absolute;
+  left: 21.52px;
+  top: 333.49px;
+  overflow: visible;
+}
+.pattern5 {
+  border-radius: 0px;
+  position: absolute;
+  left: 556.18px;
+  top: 360.99px;
+  transform: translate(-193px, -339px);
+  overflow: visible;
+}
+.pattern6 {
+  width: 622.6px;
+  height: 851.49px;
+  position: static;
+}
+.vector-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._019-review {
+  width: 460.9px;
+  height: 770.54px;
+  position: static;
+}
+._031-mobile-analytics {
+  width: 354.54px;
+  height: 683px;
+  position: static;
+}
+.base3 {
+  width: 354.54px;
+  height: 683px;
+  position: static;
+}
+.base4 {
+  width: 354.54px;
+  height: 683px;
+  position: absolute;
+  left: 161.7px;
+  top: 44.39px;
+}
+.color-152 {
+  background: #5956e8;
+  width: 354.54px;
+  height: 683px;
+  position: absolute;
+  left: 161.7px;
+  top: 44.39px;
+}
+.screen3 {
+  width: 300.04px;
+  height: 600.96px;
+  position: static;
+}
+.screen4 {
+  width: 300.04px;
+  height: 600.96px;
+  position: absolute;
+  left: 188.66px;
+  top: 94.79px;
+}
+.color-153 {
+  background: #b5adf6;
+  width: 300.04px;
+  height: 600.96px;
+  position: absolute;
+  left: 188.66px;
+  top: 94.79px;
+}
+.shape11 {
+  width: 52.16px;
+  height: 136.25px;
+  position: static;
+}
+.shape12 {
+  width: 52.16px;
+  height: 136.25px;
+  position: absolute;
+  left: 233.49px;
+  top: 493.87px;
+}
+.color-156 {
+  background: #f9654b;
+  width: 52.16px;
+  height: 136.25px;
+  position: absolute;
+  left: 233.49px;
+  top: 493.87px;
+}
+.shape13 {
+  width: 51.86px;
+  height: 162.33px;
+  position: static;
+}
+.shape14 {
+  width: 51.86px;
+  height: 162.33px;
+  position: absolute;
+  left: 311.72px;
+  top: 467.5px;
+}
+.color-155 {
+  background: #efbd4c;
+  width: 51.86px;
+  height: 162.33px;
+  position: absolute;
+  left: 311.72px;
+  top: 467.5px;
+}
+.shape15 {
+  width: 52.16px;
+  height: 188.99px;
+  position: static;
+}
+.shape16 {
+  width: 52.16px;
+  height: 188.99px;
+  position: absolute;
+  left: 389.95px;
+  top: 441.12px;
+}
+.color-154 {
+  background: #4fe5d2;
+  width: 52.16px;
+  height: 188.99px;
+  position: absolute;
+  left: 389.95px;
+  top: 441.12px;
+}
+.circle9 {
+  width: 237.63px;
+  height: 237.63px;
+  position: static;
+}
+.circle10 {
+  width: 237.63px;
+  height: 237.63px;
+  position: absolute;
+  left: 220.3px;
+  top: 142.55px;
+}
+.color-1542 {
+  background: #4fe5d2;
+  width: 237.63px;
+  height: 237.63px;
+  position: absolute;
+  left: 220.3px;
+  top: 142.55px;
+}
+.shape17 {
+  width: 118.67px;
+  height: 124.53px;
+  position: static;
+}
+.shape18 {
+  width: 118.67px;
+  height: 124.53px;
+  position: absolute;
+  left: 339.26px;
+  top: 142.55px;
+}
+.color-1562 {
+  background: #e863db;
+  width: 118.67px;
+  height: 124.53px;
+  position: absolute;
+  left: 339.26px;
+  top: 142.55px;
+}
+.shape19 {
+  width: 129.8px;
+  height: 16.99px;
+  position: static;
+}
+.shape20 {
+  width: 129.8px;
+  height: 16.99px;
+  position: absolute;
+  left: 267.77px;
+  top: 64.61px;
+}
+.color-1532 {
+  background: #b5adf6;
+  width: 129.8px;
+  height: 16.99px;
+  position: absolute;
+  left: 267.77px;
+  top: 64.61px;
+}
+.icon15 {
+  width: 417.9px;
+  height: 374.54px;
+  position: static;
+}
+.base5 {
+  width: 417.9px;
+  height: 374.54px;
+  position: absolute;
+  left: 204.7px;
+  top: 440.39px;
+}
+.shape21 {
+  width: 389.61px;
+  height: 192.8px;
+  position: static;
+}
+.shape22 {
+  width: 389.61px;
+  height: 192.8px;
+  position: absolute;
+  left: 204.7px;
+  top: 484.98px;
+}
+.color-91 {
+  background: #e860da;
+  width: 389.61px;
+  height: 192.8px;
+  position: absolute;
+  left: 204.7px;
+  top: 484.98px;
+}
+.shape23 {
+  width: 389.61px;
+  height: 44.59px;
+  position: static;
+}
+.shape24 {
+  width: 389.61px;
+  height: 44.59px;
+  position: absolute;
+  left: 204.7px;
+  top: 440.39px;
+}
+.color-90 {
+  background: #5a41dc;
+  width: 389.61px;
+  height: 44.59px;
+  position: absolute;
+  left: 204.7px;
+  top: 440.39px;
+}
+.shape25 {
+  width: 100.4px;
+  height: 100.4px;
+  position: static;
+}
+.shape26 {
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 242.06px;
+  top: 499.59px;
+}
+.color-93 {
+  background: #efbd4c;
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 242.06px;
+  top: 499.59px;
+}
+.shape27 {
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 349.07px;
+  top: 499.59px;
+}
+.color-92 {
+  background: #4fe5d2;
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 349.07px;
+  top: 499.59px;
+}
+.shape28 {
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 456.24px;
+  top: 499.59px;
+}
+.color-94 {
+  background: #f9654b;
+  width: 100.4px;
+  height: 100.4px;
+  position: absolute;
+  left: 456.24px;
+  top: 499.59px;
+}
+.shape29 {
+  width: 170.05px;
+  height: 41.51px;
+  position: static;
+}
+.shape30 {
+  width: 170.05px;
+  height: 41.51px;
+  position: absolute;
+  left: 314.33px;
+  top: 612.13px;
+}
+.color-902 {
+  background: #5a41dc;
+  width: 170.05px;
+  height: 41.51px;
+  position: absolute;
+  left: 314.33px;
+  top: 612.13px;
+}
+.star3 {
+  width: 146.83px;
+  height: 21.53px;
+  position: static;
+}
+.star4 {
+  width: 146.83px;
+  height: 21.53px;
+  position: absolute;
+  left: 330.01px;
+  top: 620.74px;
+}
+.color-932 {
+  background: #efbd4c;
+  width: 146.83px;
+  height: 21.53px;
+  position: absolute;
+  left: 330.01px;
+  top: 620.74px;
+}
+.hand {
+  width: 124.38px;
+  height: 102.86px;
+  position: static;
+}
+.hand2 {
+  width: 124.38px;
+  height: 102.86px;
+  position: absolute;
+  left: 449.32px;
+  top: 641.19px;
+}
+.color-95 {
+  background: #f3b770;
+  width: 124.38px;
+  height: 102.86px;
+  position: absolute;
+  left: 449.32px;
+  top: 641.19px;
+}
+.hand3 {
+  width: 123.46px;
+  height: 122.08px;
+  position: static;
+}
+.hand4 {
+  width: 123.46px;
+  height: 122.08px;
+  position: absolute;
+  left: 499.13px;
+  top: 692.85px;
+}
+.color-922 {
+  background: #4fe5d2;
+  width: 123.46px;
+  height: 122.08px;
+  position: absolute;
+  left: 499.13px;
+  top: 692.85px;
+}
+.shape31 {
+  width: 208.33px;
+  height: 23.37px;
+  position: static;
+}
+.shape32 {
+  width: 208.33px;
+  height: 23.37px;
+  position: absolute;
+  left: 371.68px;
+  top: 452.85px;
+}
+.color-912 {
+  background: #ffdc60;
+  width: 208.33px;
+  height: 23.37px;
+  position: absolute;
+  left: 371.68px;
+  top: 452.85px;
+}
+.circle11 {
+  width: 11.99px;
+  height: 12.15px;
+  position: static;
+}
+.circle12 {
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 224.53px;
+  top: 454.08px;
+}
+.color-942 {
+  background: #f9654b;
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 224.53px;
+  top: 454.08px;
+}
+.circle13 {
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 241.45px;
+  top: 454.08px;
+}
+.color-933 {
+  background: #efbd4c;
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 241.45px;
+  top: 454.08px;
+}
+.circle14 {
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 258.21px;
+  top: 454.08px;
+}
+.color-923 {
+  background: #4fe5d2;
+  width: 11.99px;
+  height: 12.15px;
+  position: absolute;
+  left: 258.21px;
+  top: 454.08px;
+}
+.circle15 {
+  width: 59.04px;
+  height: 59.04px;
+  position: static;
+}
+.circle16 {
+  width: 59.04px;
+  height: 59.04px;
+  position: absolute;
+  left: 262.82px;
+  top: 522.34px;
+}
+.color-903 {
+  background: #5a41dc;
+  width: 59.04px;
+  height: 59.04px;
+  position: absolute;
+  left: 262.82px;
+  top: 522.34px;
+}
+.basket {
+  width: 65.96px;
+  height: 66.11px;
+  position: static;
+}
+.basket2 {
+  width: 65.96px;
+  height: 66.11px;
+  position: absolute;
+  left: 367.22px;
+  top: 516.5px;
+}
+.color-943 {
+  background: #f9654b;
+  width: 65.96px;
+  height: 64.58px;
+  position: absolute;
+  left: 367.22px;
+  top: 518.04px;
+}
+.circle17 {
+  width: 59.04px;
+  height: 59.04px;
+  position: absolute;
+  left: 476.99px;
+  top: 522.5px;
+}
+.color-934 {
+  background: #efbd4c;
+  width: 59.04px;
+  height: 59.04px;
+  position: absolute;
+  left: 476.99px;
+  top: 522.5px;
+}
+.pattern7 {
+  background: #a4c7fb;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 569.18px;
+  top: 371.99px;
+}
+.pattern8 {
+  background: #f6e3ff;
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+  left: 101.18px;
+  top: 243.99px;
+}
+.pattern9 {
+  background: #a4c7fb;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 617.18px;
+  top: 414.99px;
+}
+.content24 {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 653px;
+  position: relative;
+}
+.heading8 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 653px;
+  position: relative;
+}
+.title15 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 652px;
+  position: relative;
+}
+.icon16 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title16 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 525px;
+  position: relative;
+}
+._02-about-us {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._02-about-us-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._02-about-us-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._02-about-us-span3 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.dza-joki2 {
+  color: #292930;
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 525px;
+  height: 91px;
+}
+.line10 {
+  border-style: solid;
+  border-color: #cfcfcf;
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 653px;
+  height: 0px;
+  position: relative;
+}
+.kami-membuka-jasa-pembuatan-web-dan-aplikasi-joki-tugas-program-dan-pembuatan-keamanan-web-aplikasi {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+  width: 649px;
+  height: 95px;
+}
+.points5 {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 570px;
+  position: relative;
+}
+._112 {
+  flex-shrink: 0;
+  width: 570px;
+  height: 86px;
+  position: static;
+}
+.line-4 {
+  border-style: solid;
+  border-color: #cfcfcf;
+  border-width: 1px 0 0 0;
+  width: 484px;
+  height: 0px;
+  position: absolute;
+  left: 86px;
+  top: 43px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.icon17 {
+  width: 86px;
+  height: 86px;
+  position: static;
+}
+.group-3 {
+  position: absolute;
+  left: 26px;
+  top: 26px;
+  overflow: visible;
+}
+.guaranteed-results {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 7px;
+}
+._210 {
+  flex-shrink: 0;
+  width: 570px;
+  height: 86px;
+  position: static;
+}
+.line-42 {
+  border-style: solid;
+  border-color: #cfcfcf;
+  border-width: 1px 0 0 0;
+  width: 484px;
+  height: 0px;
+  position: absolute;
+  left: 86px;
+  top: 179px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.ellipse-167 {
+  background: #ffffff;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #d5d5d5;
+  border-width: 1px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  left: 0px;
+  top: 136px;
+}
+.icon18 {
+  position: absolute;
+  left: 26px;
+  top: 162px;
+  overflow: visible;
+}
+.team-of-industry-experts {
+  color: #292930;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: absolute;
+  left: 103px;
+  top: 143px;
+}
+.services {
+  background: #292930;
+  padding: 173px 360px 173px 360px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  width: 1920px;
+  position: absolute;
+  left: 0px;
+  top: 1091px;
+}
+.content25 {
+  display: flex;
+  flex-direction: column;
+  gap: 90px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+.heading9 {
+  display: flex;
+  flex-direction: row;
+  gap: 279px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+.heading10 {
+  display: flex;
+  flex-direction: row;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 747px;
+  position: relative;
+}
+.icon19 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.title17 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 620px;
+  position: relative;
+}
+._01-services {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: relative;
+}
+._01-services-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._01-services-span2 {
+  color: #ffdc60;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+._01-services-span3 {
+  color: #d0d0d0;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.layanan-kami {
+  color: #ffffff;
+  text-align: left;
+  font: 600 40px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 620px;
+}
+.button7 {
+  background: #ffffff;
+  border-radius: 7px;
+  padding: 17px 24px 18px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 196px;
+  position: relative;
+}
+.layanan {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+  width: 104px;
+  height: 27px;
+}
+.vector73 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+.services2 {
+  display: flex;
+  flex-direction: column;
+  gap: 67px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+._113 {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+._114 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 54, 62, 1) 0%,
+    rgba(41, 41, 48, 1) 100%
+  );
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #424245;
+  border-width: 1px;
+  padding: 41px 39px 41px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.content26 {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 274px;
+  position: relative;
+}
+.text5 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 274px;
+  position: relative;
+}
+.jasa-pembuatan-web {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.button8 {
+  background: #ffdc60;
+  border-radius: 7px;
+  padding: 17px 70px 18px 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.read-more2 {
+  color: #292930;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+  width: 104px;
+  height: 27px;
+}
+.vector74 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._211 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 54, 62, 1) 0%,
+    rgba(41, 41, 48, 1) 100%
+  );
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #424245;
+  border-width: 1px;
+  padding: 41px 39px 41px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.jasa-pembuatan-aplikasi {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.button9 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #535355;
+  border-width: 1px;
+  padding: 17px 70px 18px 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.read-more3 {
+  color: #525255;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+  width: 104px;
+  height: 27px;
+}
+.vector75 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._39 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 54, 62, 1) 0%,
+    rgba(41, 41, 48, 1) 100%
+  );
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #424245;
+  border-width: 1px;
+  padding: 41px 39px 41px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.joki-tugas-program {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.vector76 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._212 {
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1200px;
+  position: relative;
+}
+._115 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 54, 62, 1) 0%,
+    rgba(41, 41, 48, 1) 100%
+  );
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #424245;
+  border-width: 1px;
+  padding: 41px 39px 41px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.jasa-pembuatan-keamanan-web-aplikasi {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.vector77 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+._213 {
+  background: linear-gradient(
+    180deg,
+    rgba(54, 54, 62, 1) 0%,
+    rgba(41, 41, 48, 1) 100%
+  );
+  border-radius: 30px;
+  border-style: solid;
+  border-color: #424245;
+  border-width: 1px;
+  padding: 41px 39px 41px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 352px;
+  position: relative;
+}
+.request {
+  color: #ffffff;
+  text-align: left;
+  font: 600 25px/110.5% "Nunito", sans-serif;
+  position: relative;
+}
+.vector78 {
+  flex-shrink: 0;
+  position: relative;
+  transform: translate(0px, -14px);
+  overflow: visible;
+}
+.banner {
+  position: absolute;
+  inset: 0;
+}
+.banner2 {
+  width: 1920px;
+  height: 1156px;
+  position: static;
+}
+.banner-image {
+  width: 1920px;
+  height: 1156px;
+  position: static;
+}
+.background13 {
+  width: 1920px;
+  height: 1156px;
+  position: static;
+}
+.background14 {
+  background: linear-gradient(
+    111.23deg,
+    rgba(233, 247, 255, 1) 0%,
+    rgba(255, 219, 212, 1) 100%
+  );
+  width: 1920px;
+  height: 1101px;
+  position: absolute;
+  left: 0px;
+  top: -10px;
+}
+.background15 {
+  position: absolute;
+  left: 0px;
+  top: -10px;
+  overflow: visible;
+}
+.image10 {
+  width: 1703px;
+  height: 801px;
+  position: static;
+}
+.pattern13 {
+  background: #f8dfe4;
+  border-radius: 50%;
+  width: 78px;
+  height: 78px;
+  position: absolute;
+  left: 856px;
+  top: 216px;
+}
+.pattern14 {
+  background: #d4ebfb;
+  border-radius: 50%;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  left: 126px;
+  top: 772px;
+}
+.pattern15 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #f8bdbd;
+  border-width: 3px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 781px;
+  top: 939px;
+}
+.pattern16 {
+  width: 688.64px;
+  height: 585.05px;
+  position: static;
+}
+.base6 {
+  width: 528.64px;
+  height: 426.84px;
+  position: static;
+}
+.base7 {
+  width: 528.64px;
+  height: 426.84px;
+  position: absolute;
+  left: 1262px;
+  top: 346.21px;
+}
+.color-29 {
+  background: linear-gradient(
+    145deg,
+    rgba(69, 66, 229, 1) 0%,
+    rgba(132, 166, 255, 1) 100%
+  );
+  width: 528.64px;
+  height: 426.84px;
+  position: absolute;
+  left: 1262px;
+  top: 346.21px;
+}
+.screen5 {
+  width: 466.47px;
+  height: 284.04px;
+  position: static;
+}
+.screen6 {
+  width: 466.47px;
+  height: 284.04px;
+  position: absolute;
+  left: 1293.28px;
+  top: 379.24px;
+}
+.color-30 {
+  background: #b5adf6;
+  width: 466.47px;
+  height: 284.04px;
+  position: absolute;
+  left: 1293.28px;
+  top: 379.24px;
+}
+.shape33 {
+  width: 313.96px;
+  height: 202.25px;
+  position: static;
+}
+.shape34 {
+  width: 313.96px;
+  height: 202.25px;
+  position: absolute;
+  left: 1428.5px;
+  top: 434.22px;
+}
+.color-33 {
+  background: #fec90c;
+  width: 313.96px;
+  height: 202.25px;
+  position: absolute;
+  left: 1428.5px;
+  top: 434.22px;
+}
+.shape35 {
+  width: 90.73px;
+  height: 202.25px;
+  position: static;
+}
+.shape36 {
+  width: 90.73px;
+  height: 202.25px;
+  position: absolute;
+  left: 1311.35px;
+  top: 434.22px;
+}
+.color-31 {
+  background: #e54fd6;
+  width: 90.73px;
+  height: 202.25px;
+  position: absolute;
+  left: 1311.35px;
+  top: 434.22px;
+}
+.shape37 {
+  width: 249.26px;
+  height: 27.98px;
+  position: static;
+}
+.shape38 {
+  width: 249.26px;
+  height: 27.98px;
+  position: absolute;
+  left: 1493.2px;
+  top: 394.2px;
+}
+.color-312 {
+  background: #e54fd6;
+  width: 249.26px;
+  height: 27.98px;
+  position: absolute;
+  left: 1493.2px;
+  top: 394.2px;
+}
+.shape39 {
+  width: 72.08px;
+  height: 43.52px;
+  position: static;
+}
+.shape40 {
+  width: 72.08px;
+  height: 43.52px;
+  position: absolute;
+  left: 1321.26px;
+  top: 559.53px;
+}
+.color-32 {
+  background: #efbd4c;
+  width: 72.08px;
+  height: 43.52px;
+  position: absolute;
+  left: 1321.26px;
+  top: 559.53px;
+}
+.shape41 {
+  width: 37.69px;
+  height: 74.8px;
+  position: static;
+}
+.shape42 {
+  width: 37.69px;
+  height: 74.8px;
+  position: absolute;
+  left: 1482.9px;
+  top: 543.41px;
+}
+.color-322 {
+  background: #ffffff;
+  width: 37.69px;
+  height: 74.8px;
+  position: absolute;
+  left: 1482.9px;
+  top: 543.41px;
+}
+.shape43 {
+  width: 37.5px;
+  height: 93.45px;
+  position: static;
+}
+.shape44 {
+  width: 37.5px;
+  height: 93.45px;
+  position: absolute;
+  left: 1539.05px;
+  top: 524.76px;
+}
+.color-313 {
+  background: #4fe5d2;
+  width: 37.5px;
+  height: 93.45px;
+  position: absolute;
+  left: 1539.05px;
+  top: 524.76px;
+}
+.shape45 {
+  width: 37.69px;
+  height: 112.1px;
+  position: static;
+}
+.shape46 {
+  width: 37.69px;
+  height: 112.1px;
+  position: absolute;
+  left: 1595.19px;
+  top: 505.91px;
+}
+.color-302 {
+  background: #b5adf6;
+  width: 37.69px;
+  height: 112.1px;
+  position: absolute;
+  left: 1595.19px;
+  top: 505.91px;
+}
+.shape47 {
+  width: 37.5px;
+  height: 130.56px;
+  position: static;
+}
+.shape48 {
+  width: 37.5px;
+  height: 130.56px;
+  position: absolute;
+  left: 1651.34px;
+  top: 487.45px;
+}
+.color-292 {
+  background: #5a41dc;
+  width: 37.5px;
+  height: 130.56px;
+  position: absolute;
+  left: 1651.34px;
+  top: 487.45px;
+}
+.arrow {
+  width: 144.74px;
+  height: 78.3px;
+  position: static;
+}
+.arrow2 {
+  width: 144.74px;
+  height: 78.3px;
+  position: absolute;
+  left: 1484.06px;
+  top: 455.98px;
+}
+.color-323 {
+  background: #282828;
+  width: 144.74px;
+  height: 78.3px;
+  position: absolute;
+  left: 1484.06px;
+  top: 455.98px;
+}
+.human3 {
+  width: 54.2px;
+  height: 80.63px;
+  position: static;
+}
+.human4 {
+  width: 54.2px;
+  height: 80.63px;
+  position: absolute;
+  left: 1330.19px;
+  top: 449.37px;
+}
+.color-332 {
+  background: #6952df;
+  width: 54.2px;
+  height: 80.63px;
+  position: absolute;
+  left: 1330.19px;
+  top: 449.37px;
+}
+.head3 {
+  width: 39.83px;
+  height: 42.94px;
+  position: static;
+}
+.head4 {
+  width: 39.83px;
+  height: 42.94px;
+  position: absolute;
+  left: 1337.38px;
+  top: 449.37px;
+}
+.color-324 {
+  background: #efbd4c;
+  width: 39.83px;
+  height: 42.94px;
+  position: absolute;
+  left: 1337.38px;
+  top: 449.37px;
+}
+.circle-1 {
+  width: 14.57px;
+  height: 14.57px;
+  position: static;
+}
+.circle-12 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1316.98px;
+  top: 395.75px;
+}
+.circle-4 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1316.98px;
+  top: 395.75px;
+}
+.color-333 {
+  background: #f9654b;
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1316.98px;
+  top: 395.75px;
+}
+.circle-2 {
+  width: 14.57px;
+  height: 14.57px;
+  position: static;
+}
+.circle-22 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1337.19px;
+  top: 395.75px;
+}
+.circle-42 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1337.19px;
+  top: 395.75px;
+}
+.color-325 {
+  background: #efbd4c;
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1337.19px;
+  top: 395.75px;
+}
+.circle-3 {
+  width: 14.57px;
+  height: 14.57px;
+  position: static;
+}
+.circle-32 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1357.2px;
+  top: 395.75px;
+}
+.circle-43 {
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1357.2px;
+  top: 395.75px;
+}
+.color-314 {
+  background: #4fe5d2;
+  width: 14.57px;
+  height: 14.57px;
+  position: absolute;
+  left: 1357.2px;
+  top: 395.75px;
+}
+._017-megaphone {
+  width: 151.25px;
+  height: 120.7px;
+  position: static;
+}
+.base8 {
+  width: 151.25px;
+  height: 120.7px;
+  position: absolute;
+  left: 1102px;
+  top: 263.63px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-6 {
+  width: 13.74px;
+  height: 24.81px;
+  position: static;
+}
+.shape-62 {
+  width: 13.74px;
+  height: 24.81px;
+  position: absolute;
+  left: 1241.83px;
+  top: 230.78px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-7 {
+  width: 13.74px;
+  height: 24.81px;
+  position: absolute;
+  left: 1241.83px;
+  top: 230.78px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-83 {
+  background: #e862da;
+  width: 13.74px;
+  height: 24.81px;
+  position: absolute;
+  left: 1241.83px;
+  top: 230.78px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-5 {
+  width: 64.81px;
+  height: 93.44px;
+  position: static;
+}
+.shape-52 {
+  width: 64.81px;
+  height: 93.44px;
+  position: absolute;
+  left: 1158.36px;
+  top: 239.35px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-72 {
+  width: 64.81px;
+  height: 93.44px;
+  position: absolute;
+  left: 1158.36px;
+  top: 239.35px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-81 {
+  background: #5a57e8;
+  width: 64.81px;
+  height: 93.44px;
+  position: absolute;
+  left: 1158.36px;
+  top: 239.35px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-4 {
+  width: 12.01px;
+  height: 107.8px;
+  position: static;
+}
+.shape-42 {
+  width: 12.01px;
+  height: 107.8px;
+  position: absolute;
+  left: 1210.78px;
+  top: 200.82px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-73 {
+  width: 12.01px;
+  height: 107.8px;
+  position: absolute;
+  left: 1210.78px;
+  top: 200.82px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-82 {
+  background: #efbd4c;
+  width: 12.01px;
+  height: 107.8px;
+  position: absolute;
+  left: 1210.78px;
+  top: 200.82px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-3 {
+  width: 29.87px;
+  height: 41.21px;
+  position: static;
+}
+.shape-32 {
+  width: 29.87px;
+  height: 41.21px;
+  position: absolute;
+  left: 1164.23px;
+  top: 319.49px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-74 {
+  width: 29.87px;
+  height: 41.21px;
+  position: absolute;
+  left: 1164.23px;
+  top: 319.49px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-812 {
+  background: #5a57e8;
+  width: 29.87px;
+  height: 41.21px;
+  position: absolute;
+  left: 1164.23px;
+  top: 319.49px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-2 {
+  width: 14.41px;
+  height: 20.32px;
+  position: static;
+}
+.shape-22 {
+  width: 14.41px;
+  height: 20.32px;
+  position: absolute;
+  left: 1123.86px;
+  top: 301.48px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-75 {
+  width: 14.41px;
+  height: 20.32px;
+  position: absolute;
+  left: 1123.86px;
+  top: 301.48px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-813 {
+  background: #5a57e8;
+  width: 14.41px;
+  height: 20.32px;
+  position: absolute;
+  left: 1123.86px;
+  top: 301.48px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-1 {
+  width: 46.69px;
+  height: 54.16px;
+  position: static;
+}
+.shape-12 {
+  width: 46.69px;
+  height: 54.16px;
+  position: absolute;
+  left: 1127.79px;
+  top: 279.67px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.shape-76 {
+  width: 46.69px;
+  height: 54.16px;
+  position: absolute;
+  left: 1127.79px;
+  top: 279.67px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.color-79 {
+  background: #fece25;
+  width: 46.69px;
+  height: 54.16px;
+  position: absolute;
+  left: 1127.79px;
+  top: 279.67px;
+  transform-origin: 0 0;
+  transform: rotate(-30deg) scale(1, 1);
+}
+.pattern17 {
+  border-radius: 0px;
+  position: absolute;
+  left: 1423.07px;
+  top: 828px;
+  transform: translate(-10.36px, 12.73px);
+  overflow: visible;
+}
+.pattern18 {
+  border-radius: 0px;
+  position: absolute;
+  left: 1779.77px;
+  top: 437.71px;
+  transform: translate(8.81px, -0.72px);
+  overflow: visible;
+}
+.pattern19 {
+  width: 138px;
+  height: 189.45px;
+  position: static;
+}
+.base9 {
+  width: 138px;
+  height: 189.45px;
+  position: static;
+}
+.base10 {
+  width: 138px;
+  height: 189.45px;
+  position: absolute;
+  left: 1691px;
+  top: 750px;
+}
+.color-60 {
+  background: #4946bb;
+  width: 138px;
+  height: 189.45px;
+  position: absolute;
+  left: 1691px;
+  top: 750px;
+}
+.shape-33 {
+  width: 13.26px;
+  height: 13.26px;
+  position: static;
+}
+.shape-34 {
+  width: 13.26px;
+  height: 13.26px;
+  position: absolute;
+  left: 1753.37px;
+  top: 827.37px;
+}
+.shape-63 {
+  width: 13.26px;
+  height: 13.26px;
+  position: absolute;
+  left: 1753.37px;
+  top: 827.37px;
+}
+.color-64 {
+  background: #fecf26;
+  width: 13.26px;
+  height: 13.26px;
+  position: absolute;
+  left: 1753.37px;
+  top: 827.37px;
+}
+.shape-23 {
+  width: 75.83px;
+  height: 75.83px;
+  position: static;
+}
+.shape-24 {
+  width: 75.83px;
+  height: 75.83px;
+  position: absolute;
+  left: 1722.55px;
+  top: 794.48px;
+}
+.shape-35 {
+  width: 75.83px;
+  height: 75.83px;
+  position: absolute;
+  left: 1722.55px;
+  top: 794.48px;
+}
+.color-642 {
+  background: #fecf26;
+  width: 75.83px;
+  height: 75.83px;
+  position: absolute;
+  left: 1722.55px;
+  top: 794.48px;
+}
+.shape-13 {
+  width: 138px;
+  height: 189.45px;
+  position: static;
+}
+.shape-14 {
+  width: 138px;
+  height: 189.45px;
+  position: absolute;
+  left: 1691px;
+  top: 750px;
+}
+.shape-64 {
+  width: 138px;
+  height: 189.45px;
+  position: absolute;
+  left: 1691px;
+  top: 750px;
+}
+.color-643 {
+  background: #fecf26;
+  width: 138px;
+  height: 189.45px;
+  position: absolute;
+  left: 1691px;
+  top: 750px;
+}
+.legs {
+  width: 103.83px;
+  height: 45.15px;
+  position: static;
+}
+.legs2 {
+  width: 103.83px;
+  height: 45.15px;
+  position: absolute;
+  left: 1708.69px;
+  top: 894.3px;
+}
+.color-602 {
+  background: #4946bb;
+  width: 103.83px;
+  height: 45.15px;
+  position: absolute;
+  left: 1708.69px;
+  top: 894.3px;
+}
+.bow {
+  width: 51.52px;
+  height: 82.6px;
+  position: static;
+}
+.bow2 {
+  width: 51.52px;
+  height: 82.6px;
+  position: absolute;
+  left: 1760.47px;
+  top: 750px;
+}
+.color-62 {
+  background: #4fe5d2;
+  width: 51.52px;
+  height: 82.6px;
+  position: absolute;
+  left: 1760.47px;
+  top: 750px;
+}
+.shape-53 {
+  width: 24.32px;
+  height: 33.9px;
+  position: static;
+}
+.shape-54 {
+  width: 24.32px;
+  height: 33.9px;
+  position: absolute;
+  left: 1761.94px;
+  top: 791.94px;
+}
+.shape-65 {
+  width: 24.32px;
+  height: 33.9px;
+  position: absolute;
+  left: 1761.94px;
+  top: 791.94px;
+}
+.color-61 {
+  background: #b5adf6;
+  width: 24.32px;
+  height: 33.9px;
+  position: absolute;
+  left: 1761.94px;
+  top: 791.94px;
+}
+.shape-43 {
+  width: 18.09px;
+  height: 17.08px;
+  position: static;
+}
+.shape-44 {
+  width: 18.09px;
+  height: 17.08px;
+  position: absolute;
+  left: 1793.9px;
+  top: 750px;
+}
+.shape-66 {
+  width: 18.09px;
+  height: 17.08px;
+  position: absolute;
+  left: 1793.9px;
+  top: 750px;
+}
+.color-63 {
+  background: #efbd4c;
+  width: 18.09px;
+  height: 17.08px;
+  position: absolute;
+  left: 1793.9px;
+  top: 750px;
+}
+.pattern20 {
+  position: absolute;
+  left: 1243px;
+  top: 200.64px;
+  transform: translate(0px, -4.85px);
+  overflow: visible;
+}
+.pattern21 {
+  position: absolute;
+  left: 1089px;
+  top: 673px;
+  overflow: visible;
+}
+.content27 {
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 740px;
+  position: absolute;
+  left: 360px;
+  top: 321px;
+}
+.title18 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 740px;
+  position: relative;
+}
+.agency {
+  flex-shrink: 0;
+  width: 85px;
+  height: 23px;
+  position: static;
+}
+.agency2 {
+  text-align: left;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.agency-2-span {
+  color: #fec90c;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.agency-2-span2 {
+  color: #292930;
+  font: 500 15px/156.5% "Noto Sans", sans-serif;
+  text-transform: uppercase;
+}
+.dza-joki3 {
+  color: #292930;
+  text-align: left;
+  font: 800 70px/110.5% "Nunito", sans-serif;
+  position: relative;
+  width: 740px;
+}
+.jasa-pembuatan-web-dan-aplikasi-joki-tugas-program-dan-pembuatan-keamanan-web-aplikasi {
+  color: #555555;
+  text-align: left;
+  font: 400 18px/156.5% "Noto Sans", sans-serif;
+  position: relative;
+  width: 593px;
+}
+.button10 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 375px;
+  position: relative;
+}
+.button11 {
+  background: #292930;
+  border-radius: 7px;
+  padding: 17px 39px 18px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.our-services {
+  color: #ffffff;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.button12 {
+  border-radius: 7px;
+  border-style: solid;
+  border-color: #292930;
+  border-width: 1.5px;
+  padding: 17px 39px 18px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.get-started {
+  color: #292930;
+  text-align: center;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.header {
+  width: 1200px;
+  height: 81px;
+  position: absolute;
+  left: 358px;
+  top: 51px;
+}
+.header2 {
+  display: flex;
+  flex-direction: row;
+  gap: 175px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1206px;
+  position: absolute;
+  left: -4px;
+  top: 0px;
+}
+.logo3 {
+  flex-shrink: 0;
+  width: 225px;
+  height: 81.16px;
+  position: static;
+}
+.dza-joki4 {
+  color: #2c2d36;
+  text-align: left;
+  font: 800 30px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 88px;
+  top: 12px;
+}
+.menu {
+  flex-shrink: 0;
+  width: 820px;
+  height: 64px;
+  position: static;
+}
+.button13 {
+  background: #292930;
+  border-radius: 7px;
+  padding: 17px 39px 18px 39px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1047px;
+  top: 8.58px;
+}
+.get-started2 {
+  color: #ffffff;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: relative;
+}
+.menu-item {
+  width: 604px;
+  height: 29px;
+  position: static;
+}
+.menu2 {
+  position: absolute;
+  left: 400px;
+  top: 59.58px;
+  overflow: visible;
+}
+.log-in {
+  color: #292930;
+  text-align: left;
+  font: 500 18px/160% "Nunito", sans-serif;
+  position: absolute;
+  left: 958px;
+  top: 31.58px;
+}
